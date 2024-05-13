@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.codemybrainsout.rating:ratingdialog:1.0.8@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Android/Sdk/caches/transforms-2/files-2.1/473db152286b4e1e41f4a2eeeee8fa38/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Android/Sdk/caches/transforms-2/files-2.1/473db152286b4e1e41f4a2eeeee8fa38/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Android/Sdk/caches/transforms-2/files-2.1/473db152286b4e1e41f4a2eeeee8fa38/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Android/Sdk/caches/modules-2/files-2.1/com.codemybrainsout.rating/ratingdialog/1.0.8/8e4dbcfa921d0ec6ef79bb62821ead2579855b7c/ratingdialog-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
